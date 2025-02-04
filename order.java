@@ -1,4 +1,4 @@
-~class HelloWorld
+~class kiran:
 {
 	public static void main(String args[])
 	{
